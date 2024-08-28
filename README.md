@@ -1,0 +1,2 @@
+## paclesEntries.js
+This file is responsible for creating a JSON file that contains data about establishments in a given area. To use it, you must run it by passing the city from which the information is required and the type of establishment as arguments. Usage: node placesEntries.js <city_name> <establishment_type>
